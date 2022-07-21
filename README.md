@@ -13,3 +13,5 @@
 + RPA Developer Foundation
 
 + RPA Developer Advanced
+
++ RPA Developer Advanced - Updated 2022
